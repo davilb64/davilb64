@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Davi Lopes
+- 👀 I’m interested in programming and technology
+- 🌱 I’m currently learning Python and Front-end
+- 💞️ I’m looking to collaborate on different projects
+- 📫 How to reach me: davilopesbrito64@gmail.com or (61) 9 9883-2006
+- 😄 Pronouns: He/ Him
+- 🐺 "I know I have my monsters, but I keep walking"
