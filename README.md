@@ -1,6 +1,6 @@
 ### Hi! I'm Davi Lopes!
-Computer Engineering Student at the University of Brasília (UnB)
-Social Media:<br>
+**Computer Engineering Student at the University of Brasília (UnB)**<br>
+**Social Media:**<br>
 <a href="www.linkedin.com/in/davi-lopes-brito">
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />                  
 </a>
