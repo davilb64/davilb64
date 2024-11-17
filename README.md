@@ -1,7 +1,2 @@
-- 👋 Hi, I’m Davi Lopes
-- 👀 I’m interested in programming and technology
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me: davilopesbrito64@gmail.com or (61) 9 9883-2006
-- 😄 Pronouns: He/ Him
-- 🐺 "I know I have my monsters, but I keep walking"
+### Olá! Sou o Davi Lopes!
+Estudante de Engenharia de Computação na Universidade de Brasília (UnB)
