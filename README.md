@@ -16,7 +16,7 @@
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50"/>
 </a>
 
-<a href="[https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
           <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </a>
 <br>
