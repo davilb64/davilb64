@@ -1,31 +1,29 @@
-name: Generate Snake Game
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite
+    - cron: "0 0 * * *" # Executa todo dia à meia-noite
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  build:
-    name: Generate Snake Animation
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: davilb64
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to the output branch
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Generate Snake Game"
-          add: "dist"
-          branch: output
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/*.svg
+          git commit -m "Generate snake animation"
+          git push
