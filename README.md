@@ -21,5 +21,7 @@
 <a href="https://www.linkedin.com/in/davi-lopes-brito">
           <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />                  
 </a>
+
+![Visitor Count](https : //profile-counter.glitch.me/{davilb64}/count.svg)
           
           
