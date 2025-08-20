@@ -45,11 +45,6 @@
 
 ---
 
-<!-- Snake Game -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/davilb64/davilb64/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 
 <!-- Footer -->
 <p align="center">
