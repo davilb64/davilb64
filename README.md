@@ -1,8 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Davi+Lopes!;Computer+Engineering+Student;Cybersecurity+%26+Networks+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=435&lines=I'm+Davi+Lopes!;Computer+Engineering+Student;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 <h3 align="center">🚀 Computer Engineering Student at <a href="https://www.unb.br">University of Brasília (UnB)</a> 🎓</h3>
 
 ---
@@ -25,7 +22,9 @@
 <h2 align="center">💻 Programming Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,bash,git,github,linux,java" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,bash,git,aws,latex,linux,mysql,bootstrap,figma,ae,ps,pr,blender" />
+  </a>
 </p>
 
 ---
