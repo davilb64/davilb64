@@ -9,12 +9,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davilb64&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=davilb64&theme=tokyonight&hide_border=true&border_radius=15" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davilb64&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
+
 
 ---
 
