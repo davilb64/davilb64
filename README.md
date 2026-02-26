@@ -35,7 +35,7 @@
 <h2 align="center">💻 Tecnologias e Ferramentas</h2>
 
 <div align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/davilb64">
     <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,bash,git,aws,latex,linux,mysql,bootstrap,figma,ae,ps,pr,blender" alt="Minhas Habilidades" />
   </a>
 </div>
