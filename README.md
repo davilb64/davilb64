@@ -21,7 +21,7 @@
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davilb64&theme=vue" height="400" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davilb64&theme=react-dark" height="400" alt="GitHub Stats" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilb64&layout=compact&langs_count=16&theme=dracula&count_private=true" height="400" alt="GitHub Stats" />
